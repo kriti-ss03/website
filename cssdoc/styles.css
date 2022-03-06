@@ -1,0 +1,42 @@
+body{
+    background-color: #F5EEDC;
+    margin:0;
+}
+
+h1{
+   color:#C0D8C0;
+   font-family: Nunito Sans;
+}
+
+.t{
+    background-color: red;
+    width: 200px;
+    height:200px;
+    display:block;
+    position: absolute;
+    left:400px;
+    top:400px;
+    
+}
+
+.m{
+    background-color: #153daa;
+    width: 200px;
+
+    height:200px;
+    display:block;
+    position: absolute;
+    left:200px;
+    top:200px;
+    
+    
+}
+
+.b{
+    background-color: #dbff57; 
+    width: 200px;
+    height:200px;
+    display:block;
+    position: absolute;
+    
+}
